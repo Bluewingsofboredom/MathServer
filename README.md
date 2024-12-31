@@ -66,6 +66,8 @@ Publish the website in the given URL.
 
 ## HOMEPAGE:
 ![alt text](<image copy 2.png>)
+![image](https://github.com/user-attachments/assets/1a5ccbbd-4a3a-4121-a2b3-54aa525b2c55)
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
